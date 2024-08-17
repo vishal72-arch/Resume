@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    background-image: url('register.jpg');
+    background-size:cover;
+}
+#topbar {
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    border: 8px solid white;
+    border-radius: 10 px;
+    box-shadow: rgba(255, 254, 254, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 50px;
+    
+}
+
+.middle-class{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 10px;
+    color: white;
+    
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0px;
+    margin: 10px;
+}
+
+.form-container {
+    border: 8px solid whitesmoke; /* Adjust the border as needed */
+    padding: 10px; /* Add padding to give some space inside the border */
+    display: inline-block; 
+    background-color: black;
+    border-radius: 20px;/* Makes the border wrap only around the content */
+  }
+  
